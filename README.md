@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# shoes_catalog
+# Shoes Catalog
 
 A new Flutter project.
 
